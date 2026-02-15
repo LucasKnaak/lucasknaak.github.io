@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Como criei meu site com Jekyll"
-date: 2026-02-15
+date: 2026-02-15 10:00:00 -0300
 categories: [carreira, tecnologia]
 ---
 
@@ -13,4 +13,5 @@ Vou usar esse blog para compartilhar experiências com:
 - BI
 - SAP
 - Integrações
+
 - IA aplicada a negócios
