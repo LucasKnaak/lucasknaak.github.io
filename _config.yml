@@ -16,7 +16,7 @@ timezone:
 
 title: Lucas Knaak
 
-tagline: Dados | BI | Integrações | IA aplicada
+tagline: Gestão | Dados | Integrações | IA aplicada a Negócios
 
 description: >-
   Gestor de TI e Dados focado em integração de sistemas, BI e aplicações práticas de IA no negócio.
@@ -99,7 +99,10 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.png
+
+sidebar:
+  tagline: "Dados | BI | Integrações | IA aplicada"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
