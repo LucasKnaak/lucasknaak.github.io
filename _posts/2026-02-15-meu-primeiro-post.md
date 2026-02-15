@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Como criei meu site com Jekyll"
+title: "Bem Vindos!"
 date: 2026-02-15 10:00:00 -0300
 categories: [carreira, tecnologia]
 published: true
