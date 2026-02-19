@@ -6,7 +6,7 @@ order: 2
 
 ## 📊 Dashboard Comercial
 
-Onde: Carburgo
+Onde: Carburgo <br>
 Projeto em Python + Streamlit para análise de indicadores de vendas.
 
 **Stack:** Python, Pandas, PostgreSQL
@@ -14,7 +14,7 @@ Projeto em Python + Streamlit para análise de indicadores de vendas.
 
 ## 📊 BI Social e Financeiro
 
-Onde: SC Internacional
+Onde: SC Internacional <br>
 ETL no SQLServer e utilização do Power BI para montagem dos dashboards.
 
 **Stack:** Power BI, SQLServer
@@ -22,7 +22,7 @@ ETL no SQLServer e utilização do Power BI para montagem dos dashboards.
 
 ## 🔄 Integração de Sistemas
 
-Onde: Petite Jolie
+Onde: Petite Jolie <br>
 Projeto de integração entre PDV das lojas e backoffice.
 
 **Stack:** Python, PostgreSQL, Webhooks
@@ -30,7 +30,7 @@ Projeto de integração entre PDV das lojas e backoffice.
 
 ## 💌 CRM - PJ CONNECT
 
-Onde: Petite Jolie
+Onde: Petite Jolie <br>
 Aplicação para vendedores contatar os leads gerados pelas campanhas através do whatsapp.
 
 **Stack:** Flask Python, PostgreSQL, Github, Render
@@ -38,6 +38,7 @@ Aplicação para vendedores contatar os leads gerados pelas campanhas através d
 
 ## 🤖 IA para Previsão de Vendas
 
+Onde: Petite Jolie <br>
 Modelo de Machine Learning aplicado à previsão de vendas, por loja e categoria de produtos. Sistema visa auxiliar principalmente a tomada de decisão na hora da compra.
 
 **Stack:** Scikit-learn, Pandas, Prophet, Redes Neurais
