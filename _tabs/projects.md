@@ -22,6 +22,15 @@ ETL no SQLServer e utilização do Power BI para montagem dos dashboards.
 
 ---
 
+## 🤖 IA para previsão de churn no quadro Social
+
+Onde: SC Internacional <br>
+BI diário com a probabilidade de cada sócio abandonar o quadro social, bem como a expectativa de entrada mensal.
+
+**Stack:** Power BI, SQLServer, Scikit-learn, Pandas
+
+---
+
 ## 🔄 Integração de Sistemas
 
 Onde: Petite Jolie <br>
