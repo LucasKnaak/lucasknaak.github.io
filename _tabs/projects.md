@@ -42,3 +42,4 @@ Onde: Petite Jolie <br>
 Modelo de Machine Learning aplicado à previsão de vendas, por loja e categoria de produtos. Sistema visa auxiliar principalmente a tomada de decisão na hora da compra.
 
 **Stack:** Scikit-learn, Pandas, Prophet, Redes Neurais
+---
